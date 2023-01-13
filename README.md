@@ -7,6 +7,7 @@ Linux Ubuntu (понял что нужно было сразу ставить а
 Click House (Интересно, быстро, не очень много ресурсов требует)
 JetBrains Data Grip(Удобно)
 JetBrains PyCharm
-Yandex Cloud 
+Yandex Cloud
+Docker
 
 
