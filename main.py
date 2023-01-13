@@ -1,4 +1,4 @@
-# Создаем таблицу из набора данных на пуличном хранилище s3 по поездам такси New York
+# 1 Создаем таблицу из набора данных на пуличном хранилище s3 по поездам такси New York
 CREATE TABLE trips (
     trip_id             UInt32,
     pickup_datetime     DateTime,
